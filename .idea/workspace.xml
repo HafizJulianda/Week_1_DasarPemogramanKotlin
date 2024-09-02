@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b698f47-dcfc-4b4d-be9d-fefa01a9d6b4" name="Changes" comment="Push starter project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" afterDir="false" />
+    <list default="true" id="6b698f47-dcfc-4b4d-be9d-fefa01a9d6b4" name="Changes" comment="Add MainApp.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Literal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725283500859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add MainApp.kt">
+      <created>1725283956522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725283956522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push starter project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push starter project" />
+    <MESSAGE value="Add MainApp.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MainApp.kt" />
   </component>
 </project>
